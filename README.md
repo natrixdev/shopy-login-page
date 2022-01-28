@@ -18,4 +18,4 @@ You need to add js to make the login & register work !
 ```
 
 #### By natrix dev
-[linky.ye](github.com/natrixdev/REANDME.md)
+[linky.ye](https://github.com/natrixdev)
