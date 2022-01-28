@@ -16,3 +16,6 @@ A simple login and register page using html only !
 ```py
 You need to add js to make the login & register work !
 ```
+
+#### By natrix dev
+[linky.ye](github.com/natridev)
