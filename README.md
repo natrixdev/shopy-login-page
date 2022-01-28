@@ -18,4 +18,4 @@ You need to add js to make the login & register work !
 ```
 
 #### By natrix dev
-[linky.ye](github.com/natridev)
+[linky.ye](github.com/natrixdev)
